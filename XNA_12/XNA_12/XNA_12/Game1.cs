@@ -9,7 +9,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Input.Touch;
 using Microsoft.Xna.Framework.Media;
-// æ∆∏Ù∂Û π∫∞° πŸ≤Ô√¥«“≤®æﬂ§¿
+
 namespace XNA_12
 {
     /// <summary>
